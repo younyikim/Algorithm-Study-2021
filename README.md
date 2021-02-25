@@ -14,11 +14,9 @@
 <a href="https://github.com/younyikim">
 <img src="https://avatars1.githubusercontent.com/u/73516688" alt="drawing" width="80"> 
 </a> 
-<a href="https://github.com/areumsheep">
-<img src="https://avatars1.githubusercontent.com/u/40953167" alt="drawing" width="80" />
-</a> 
 
-younyikim  &nbsp; Hyejin Eom 
+
+younyikim  &nbsp; 
 
 - - -
 
