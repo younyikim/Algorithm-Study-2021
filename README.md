@@ -17,10 +17,15 @@
 <a href="https://github.com/yazbyz">
 <img src="https://avatars1.githubusercontent.com/u/40953167" alt="drawing" width="80"> 
 </a>
+<a href="https://github.com/mohyerolo">
+<img src="https://avatars1.githubusercontent.com/u/68698007" alt="drawing" width="80"> 
+</a>
+<a href="https://github.com/huihui9230">
+<img src="https://avatars1.githubusercontent.com/u/59568826" alt="drawing" width="80"> 
+</a>
 
 
-
-###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp; Hyejin Eom
+###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp; Hyejin Eom  &nbsp;&nbsp;&nbsp; mohyerolo &nbsp;&nbsp;&nbsp; huihui9230
 
 - - -
 
