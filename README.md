@@ -78,7 +78,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | younyikim |:white_check_mark:|||||||||||| | 00.00% |
 | Hyejin Eom |:white_check_mark:|||||||||||| | 00.00% |
-|  |:white_check_mark:|||||||||||| | 00.00% |
-|  |:white_check_mark:|||||||||||| | 00.00% |
+| mohyerolo |:white_check_mark:|||||||||||| | 00.00% |
+| huihui9230 |:white_check_mark:|||||||||||| | 00.00% |
 |  |:white_check_mark:|||||||||||| | 00.00% |
 
