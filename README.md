@@ -4,5 +4,5 @@
 ## 참여자 
 [전체보기](https://github.com/younyikim/Algorithm-Study-2021/graphs/contributors)
 <a href="https://github.com/younyikim">
-<img src="https://avatars1.githubusercontent.com/u/66635648" alt="drawing" width="80" />
+<img src="https://avatars1.githubusercontent.com/u/73516688" alt="drawing" width="80" />
 </a>
