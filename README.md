@@ -3,7 +3,7 @@
 
 * 일정표에 있는 문제를 풀고 **각자 이름**으로 된 폴더에 소스코드를 업로드해주세요!
     * 🧲 [**Pull Request 작성 규칙**](https://github.com/younyikim/Algorithm-Study-2021/wiki/%F0%9F%A7%B2-Pull-Request(PR)-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 문제 목록에서 풀이한 자신의 코드를 업로드해 주세요.
-* 과제 제출은 스터디 전날까지 제출해야합니다. <br>
+* **과제 제출**은 **스터디 전날**까지 제출해야합니다. <br>
 `화요일 과제` ➡️ `목요일까지 제출` / `금요일 과제`  ➡️  `월요일까지 제출`
 
     
@@ -12,8 +12,20 @@
 #### [전체보기](https://github.com/younyikim/Algorithm-Study-2021/graphs/contributors)
 
 <a href="https://github.com/younyikim">
-<img src="https://avatars1.githubusercontent.com/u/73516688" alt="drawing" width="80" />
+<img src="https://avatars1.githubusercontent.com/u/73516688" alt="drawing" width="80"> 
 </a>
+<a href="https://github.com/yazbyz">
+<img src="https://avatars1.githubusercontent.com/u/40953167" alt="drawing" width="80"> 
+</a>
+<a href="https://github.com/mohyerolo">
+<img src="https://avatars1.githubusercontent.com/u/68698007" alt="drawing" width="80"> 
+</a>
+<a href="https://github.com/huihui9230">
+<img src="https://avatars1.githubusercontent.com/u/59568826" alt="drawing" width="80"> 
+</a>
+
+
+###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp; Hyejin Eom  &nbsp;&nbsp;&nbsp; mohyerolo &nbsp;&nbsp;&nbsp; huihui9230
 
 - - -
 
@@ -38,7 +50,7 @@
    * **불참** : `벌금 500원 / 회당` (최대 4회까지는 불참 혹은 과제 미제출 허용)
    * **과제 미제출** : `벌금 100원 / 문제` 
    * **지각** : `벌금 200원 / 회당` (최대 2회까지는 지각 허용)
-      * 예시 : 3/2 불참 + 과제 5개 미제출 시, 벌금 500원 + 100원 * 5 = 1,000원
+      * 예시 : 3/2 불참 + 과제 5개 미제출 시, 벌금 500원 + 100원 * 5문제 = 1,000원
 
    * 스터디 종료 이후, 벌금은 스터디 참가인원 수대로 나누어 가집니다.
    
@@ -65,7 +77,7 @@
 | 참여자 (5) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | younyikim |:white_check_mark:|||||||||||| | 00.00% |
-|  |:white_check_mark:|||||||||||| | 00.00% |
+| Hyejin Eom |:white_check_mark:|||||||||||| | 00.00% |
 |  |:white_check_mark:|||||||||||| | 00.00% |
 |  |:white_check_mark:|||||||||||| | 00.00% |
 |  |:white_check_mark:|||||||||||| | 00.00% |
