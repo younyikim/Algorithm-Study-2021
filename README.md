@@ -8,7 +8,7 @@
 
     
 - - -    
-### 참여자 
+### 👩‍💻참여자 
 #### [전체보기](https://github.com/younyikim/Algorithm-Study-2021/graphs/contributors)
 
 <a href="https://github.com/younyikim">
