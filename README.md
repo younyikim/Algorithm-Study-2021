@@ -85,6 +85,6 @@
 | Hyejin Eom |:white_check_mark:|||||||||||| | 00.00% |
 | mohyerolo |:white_check_mark:|||||||||||| | 00.00% |
 | huihui9230 |:white_check_mark:|||||||||||| | 00.00% |
-|  |:white_check_mark:|||||||||||| | 00.00% |
+| ataraxiady |:white_check_mark:|||||||||||| | 00.00% |
 
 ###### 출석 + 과제 완료 ✅ | 결석 ❌ | 과제 미제출 ✔️
