@@ -63,7 +63,7 @@
 | |과제 (1)|제출기한|과제 (2)|제출기한|
 |:-:|:-:|:-:|:-:|:-:|
 |1주차(03.01~03.08)|[백준 1,2,3,4단계](https://www.acmicpc.net/step)|03.08(월)|-|-|
-|2주차(03.09~03.15)|백준 10,11단계 & 정렬 이론|03.12(금)|백준 12단계|03.16(화)|
+|2주차(03.09~03.15)|백준 10,11단계 & 정렬 이론|03.12(금)|[백준 12단계](https://www.acmicpc.net/step/9)|03.16(화)|
 |3주차(03.16~03.22)|-|-|-|-|
 |4주차(03.23~03.29)|-|-|-|-|
 |5주차(03.30~04.05)|-|-|-|-|
@@ -81,10 +81,10 @@
 
 | 참여자 (5) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| younyikim |:white_check_mark:|||||||||||| | 00.00% |
-| Hyejin Eom |:white_check_mark:|||||||||||| | 00.00% |
-| mohyerolo |:white_check_mark:|||||||||||| | 00.00% |
-| huihui9230 |:white_check_mark:|||||||||||| | 00.00% |
-| ataraxiady |:white_check_mark:|||||||||||| | 00.00% |
+| younyikim |:white_check_mark:|:white_check_mark:||||||||||| | 00.00% |
+| Hyejin Eom |:white_check_mark:|:white_check_mark:||||||||||| | 00.00% |
+| mohyerolo |:white_check_mark:|:white_check_mark:||||||||||| | 00.00% |
+| huihui9230 |:white_check_mark:|:white_check_mark:||||||||||| | 00.00% |
+| ataraxiady |:white_check_mark:|:white_check_mark:||||||||||| | 00.00% |
 
 ###### 출석 + 과제 완료 ✅ | 결석 ❌ | 과제 미제출 ✔️
