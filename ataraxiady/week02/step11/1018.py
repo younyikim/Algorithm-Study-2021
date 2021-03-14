@@ -4,7 +4,6 @@ num = list()
 for _ in range(n):
     board.append(input())
 
-
 for i in range(n-7):
     for j in range(m-7):
         w = 0

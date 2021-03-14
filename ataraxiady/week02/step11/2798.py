@@ -4,9 +4,11 @@ total = 0
 max = 0
 for i in cards:
     for j in cards:
+        # 같은 카드를 비교할 일 없도록 한다.
         if j == i:
             continue
         for k in cards:
+            # 같은 카드를 비교할 일 없도록 한다.
             if k == j or k == i:
                 continue
             if i + j + k <= m:
