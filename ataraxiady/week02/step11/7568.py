@@ -5,7 +5,6 @@ for i in range(n):
     w,h = map(int,input().split())
     values.append([w,h])
 
-
 for x,y in values:
     rank = 1
     for p, q in values:

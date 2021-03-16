@@ -10,8 +10,6 @@ if plus < 10:
 new = n[1]+splus[1]
 i = 1
 while(n != new):
-    # if int(new) < 10:
-    #     new = '0' + new
     a = int(new[0])
     b = int(new[1])
     plus = a + b
