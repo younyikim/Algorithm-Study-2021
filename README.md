@@ -62,7 +62,7 @@
 |1주차(03.01~03.08)|[백준 1,2,3,4단계](https://www.acmicpc.net/step)|03.08(월)|-|-|
 |2주차(03.09~03.15)|백준 10,11단계 & 정렬 이론|03.12(금)|[백준 12단계](https://www.acmicpc.net/step/9)|03.16(화)|
 |3주차(03.16~03.22)|[백준 13단계](https://www.acmicpc.net/step/34) & 백트래킹 이론|03.19(금)|[백준 14단계](https://www.acmicpc.net/step/16) & 동적프로그래밍 이론|03.23(화)|
-|4주차(03.23~03.29)|[백준 14단계 9~12번 ](https://www.acmicpc.net/step/16)|03.26(금)|-|-|
+|4주차(03.23~03.29)|[백준 14단계 9~12번 ](https://www.acmicpc.net/step/16)|03.26(금)|[백준 14단계 13~16번 ](https://www.acmicpc.net/step/16)|03.30(화)|
 |5주차(03.30~04.05)|-|-|-|-|
 |6주차(04.06~04.12)|-|-|-|-|
 |7주차(04.13~04.19)|-|-|-|-|
@@ -80,7 +80,6 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||| | 00.00% |
 | Hyejin Eom |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||| | 00.00% |
-| huihui9230 |:white_check_mark:|:white_check_mark:|❌|❌||||||||| | 00.00% |
 | ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||| | 00.00% |
 
 ###### 출석 + 과제 완료 ✅ | 결석 ❌ | 과제 미제출 ✔️
