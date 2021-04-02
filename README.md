@@ -23,7 +23,7 @@
 
 
 
-###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp; Hyejin Eom  &nbsp;&nbsp;&nbsp; huihui9230 &nbsp;&nbsp;ataraxiady
+###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp; Hyejin Eom  &nbsp;&nbsp;&nbsp;ataraxiady
 
 - - -
 
