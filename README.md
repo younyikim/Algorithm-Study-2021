@@ -14,16 +14,15 @@
 <a href="https://github.com/younyikim">
 <img src="https://avatars1.githubusercontent.com/u/73516688" alt="drawing" width="80"> 
 </a>
-<a href="https://github.com/yazbyz">
-<img src="https://avatars1.githubusercontent.com/u/40953167" alt="drawing" width="80"> 
-</a>
 <a href="https://github.com/ataraxiady">
 <img src="https://avatars1.githubusercontent.com/u/37330786" alt="drawing" width="80"> 
 </a>
+<a href="https://github.com/huihui9230">
+<img src="https://avatars.githubusercontent.com/u/59568826" alt="drawing" width="80"> 
+</a>
 
 
-
-###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp; Hyejin Eom  &nbsp;&nbsp;&nbsp;ataraxiady
+###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp;ataraxiady  &nbsp;&nbsp;&nbsp; Hyeonseo Jang
 
 - - -
 
@@ -37,7 +36,7 @@
 
 - - -
 ### 💡 스터디 방법
-**주 2회 (수 15시 / 금 18시) 2시간 Zoom**을 이용한 스터디
+**주 2회 (월 14시 / 목 17시) 2시간 Zoom**을 이용한 스터디
 매주 정해진 양의 알고리즘 문제를 풀고, <br>
 **소스코드** -> `Github` <br>
 **이론 정리** -> `Slack` 
@@ -62,7 +61,7 @@
 |3주차(03.16~03.22)|[백준 13단계](https://www.acmicpc.net/step/34) & 백트래킹 이론|03.19(금)|[백준 14단계](https://www.acmicpc.net/step/16) & 동적프로그래밍 이론|03.23(화)|
 |4주차(03.23~03.29)|[백준 14단계 9~12번 ](https://www.acmicpc.net/step/16)|03.26(금)|[백준 14단계 13~16번 ](https://www.acmicpc.net/step/16)|03.30(화)|
 |5주차(03.30~04.05)|[백준 16단계](https://www.acmicpc.net/step/33) & 그리디 이론|04.02(금)|[백준 18단계](https://www.acmicpc.net/step/11) & 스택 이론|04.06(화)|
-|6주차(04.06~04.12)|-|-|-|-|
+|6주차(04.06~04.12)|[백준 19단계](https://www.acmicpc.net/step/12) & 큐,덱 이론|04.08(목)|-|-|
 |7주차(04.13~04.19)|-|-|-|-|
 |8주차(04.20~04.26)|-|-|-|-|
 |9주차(04.27~05.03)|-|-|-|-|
@@ -77,7 +76,7 @@
 | 참여자 (5) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||| | 00.00% |
-| Hyejin Eom |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||| | 00.00% |
 | ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||| | 00.00% |
+| Hyeonseo Jang ||||||||||||| | 00.00% |
 
 ###### 출석 + 과제 완료 ✅ | 결석 ❌ | 과제 미제출 ✔️
