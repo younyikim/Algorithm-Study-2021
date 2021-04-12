@@ -20,9 +20,12 @@
 <a href="https://github.com/huihui9230">
 <img src="https://avatars.githubusercontent.com/u/59568826" alt="drawing" width="80"> 
 </a>
+<a href="https://github.com/sne12345">
+<img src="https://avatars.githubusercontent.com/u/51853700" alt="drawing" width="80"> 
+</a>
 
 
-###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp;ataraxiady  &nbsp;&nbsp;&nbsp; Hyeonseo Jang
+###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp;ataraxiady  &nbsp;&nbsp;&nbsp; Hyeonseo Jang &nbsp;&nbsp;&nbsp; Naeun Song
 
 - - -
 
@@ -77,6 +80,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||| | 00.00% |
 | ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||| | 00.00% |
-| Hyeonseo Jang ||||||||||||| | 00.00% |
+| Hyeonseo Jang ||||||:white_check_mark:||||||| | 00.00% |
+| Naeun Song ||||||:white_check_mark:||||||| | 00.00% |
 
 ###### 출석 + 과제 완료 ✅ | 결석 ❌ | 과제 미제출 ✔️
