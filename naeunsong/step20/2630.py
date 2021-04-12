@@ -6,7 +6,7 @@ matrix = []
 white_num, blue_num = 0,0
 
 for _ in range(N):
-    matrix.append(list(map(int, sys.stdin.readline().strip().split())))
+    matrix.append(list(map(int, sys.stdin.readline().split())))
 
 print(matrix)
 
