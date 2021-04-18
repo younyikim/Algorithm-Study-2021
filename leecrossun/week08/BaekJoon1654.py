@@ -15,12 +15,12 @@ def binary_search(key, start, end):
     for i in arr:
         cnt += i // lan
 
-    print("cnt : ", cnt, "lan : ",lan)
+    #print("cnt : ", cnt, "lan : ",lan)
     
-    if cnt == key:
-        temp = lan
-        return
-    elif cnt > key:
+    # if cnt == key:
+    #     temp = lan
+    #     return
+    if cnt >= key:
         if lan > temp:
             temp = lan
         binary_search(key, lan+1, end)
