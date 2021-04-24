@@ -20,9 +20,12 @@
 <a href="https://github.com/huihui9230">
 <img src="https://avatars.githubusercontent.com/u/59568826" alt="drawing" width="80"> 
 </a>
+<a href="https://github.com/sne12345">
+<img src="https://avatars.githubusercontent.com/u/51853700" alt="drawing" width="80"> 
+</a>
 
 
-###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp;ataraxiady  &nbsp;&nbsp;&nbsp; Hyeonseo Jang
+###### &nbsp;younyikim  &nbsp;&nbsp;&nbsp;ataraxiady  &nbsp;&nbsp;&nbsp; Hyeonseo Jang &nbsp;&nbsp;&nbsp; Naeun Song
 
 - - -
 
@@ -36,7 +39,7 @@
 
 - - -
 ### 💡 스터디 방법
-**주 2회 (월 14시 / 목 17시) 2시간 Zoom**을 이용한 스터디
+**주 2회 (월 13시 / 목 13시) 2시간 Zoom**을 이용한 스터디
 매주 정해진 양의 알고리즘 문제를 풀고, <br>
 **소스코드** -> `Github` <br>
 **이론 정리** -> `Slack` 
@@ -62,8 +65,8 @@
 |4주차(03.23~03.29)|[백준 14단계 9~12번 ](https://www.acmicpc.net/step/16)|03.26(금)|[백준 14단계 13~16번 ](https://www.acmicpc.net/step/16)|03.30(화)|
 |5주차(03.30~04.05)|[백준 16단계](https://www.acmicpc.net/step/33) & 그리디 이론|04.02(금)|[백준 18단계](https://www.acmicpc.net/step/11) & 스택 이론|04.06(화)|
 |6주차(04.06~04.12)|[백준 19단계](https://www.acmicpc.net/step/12) & 큐,덱 이론|04.08(목)|[백준 20단계](https://www.acmicpc.net/step/20) & 분할정복 이론|04.12(월)|
-|7주차(04.13~04.19)|-|-|-|-|
-|8주차(04.20~04.26)|-|-|-|-|
+|7주차(04.13~04.19)|백준 20단계 7,8번, 21단계 1~3번 & 이분탐색 이론|04.16(금)|[백준 21단계 4-7번](https://www.acmicpc.net/step/29)|04.19(월)|
+|8주차(04.20~04.26)|백준22단계(자율), [백준 23단계 1-3번](https://www.acmicpc.net/step/17)|04.26(월)|X중간고사X|X|
 |9주차(04.27~05.03)|-|-|-|-|
 |10주차(05.04~05.10)|-|-|-|-|
 |11주차(05.11~05.17)|-|-|-|-|
@@ -77,6 +80,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||| | 00.00% |
 | ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||| | 00.00% |
-| Hyeonseo Jang ||||||||||||| | 00.00% |
+| Hyeonseo Jang ||||||:white_check_mark:||||||| | 00.00% |
+| Naeun Song ||||||:white_check_mark:||||||| | 00.00% |
 
 ###### 출석 + 과제 완료 ✅ | 결석 ❌ | 과제 미제출 ✔️
