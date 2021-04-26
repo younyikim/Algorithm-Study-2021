@@ -9,7 +9,8 @@ end = max(loc) - min(loc)
 
 result = 0
 
-while (start <= end):
+
+for i in range(n):
     mid = (start + end) // 2  # 최소 거리
     router = loc[0]
     count = 1
