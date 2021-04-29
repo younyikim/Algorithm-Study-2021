@@ -67,7 +67,7 @@
 |6주차(04.06~04.12)|[백준 19단계](https://www.acmicpc.net/step/12) & 큐,덱 이론|04.08(목)|[백준 20단계](https://www.acmicpc.net/step/20) & 분할정복 이론|04.12(월)|
 |7주차(04.13~04.19)|백준 20단계 7,8번, 21단계 1~3번 & 이분탐색 이론|04.16(금)|[백준 21단계 4-7번](https://www.acmicpc.net/step/29)|04.19(월)|
 |8주차(04.20~04.26)|백준22단계(자율), [백준 23단계 1-3번](https://www.acmicpc.net/step/17)|04.26(월)|X중간고사X|X|
-|9주차(04.27~05.03)|[백준 23단계 4-7번](https://www.acmicpc.net/step/17)|04.29(목)|-|-|
+|9주차(04.27~05.03)|[백준 23단계 4-7번](https://www.acmicpc.net/step/17)|04.29(목)|[백준 24단계 1-5번](https://www.acmicpc.net/step/24)|05.03(월)|
 |10주차(05.04~05.10)|-|-|-|-|
 |11주차(05.11~05.17)|-|-|-|-|
 |12주차(05.18~05.24)|-|-|-|-|
@@ -78,9 +78,9 @@
 
 | 참여자 (5) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||| | 00.00% |
-| ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||| | 00.00% |
-| Hyeonseo Jang ||||||:white_check_mark:||||||| | 00.00% |
-| Naeun Song ||||||:white_check_mark:||||||| | 00.00% |
+| younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 00.00% |
+| ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 00.00% |
+| Hyeonseo Jang ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 00.00% |
+| Naeun Song ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 00.00% |
 
 ###### 출석 + 과제 완료 ✅ | 결석 ❌ | 과제 미제출 ✔️
