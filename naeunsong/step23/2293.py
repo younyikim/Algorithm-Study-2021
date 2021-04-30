@@ -6,7 +6,7 @@ for i in range(a):
 
 cnt = 0
 
-def recur(total, sum, idx):
+def recur(total, sum, mid_idx):
     global cnt
     if total == sum:
         cnt+=1
@@ -14,12 +14,21 @@ def recur(total, sum, idx):
     elif total < sum:
         return
 
-
-    if idx > a-1:
-        return
-
-    recur(total, sum+arr[idx], idx+1)
-    recur(total, sum - arr[idx], idx + 1)
+    for i in range(mid_idx,a):
+        recur(total, sum + arr[i], i)
 
 recur(b, 0, 0)
 print(cnt)
+
+# 1 1 1 1 1 1 1 1 1 1 -> o
+# 1 1 1 1 1 1 1 1 2 -> o
+# 1 1 1 1 1 1 1 1 3 -> x
+# 1 1 1 1 1 1 1 1 5 -> x
+# 1 1 1 1 1 1 1 2 2 -> x
+# 1 1 1 1 1 1 1 2 3 -> x
+# 1 1 1 1 1 1 1 1 5 -> x
+# 1 1 1 1 1 1 2 2 -> o
+# 1 1 1 1 1 1 2 3 -> x
+# 1 1 1 1 1 1 1 5 -> x
+# 1 1 1 1 1 2 2 2 -> x
+
