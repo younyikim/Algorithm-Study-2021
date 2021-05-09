@@ -1,6 +1,4 @@
 # 간단한 다익스트라 알고리즘 코드 (O(V^2))
-import sys
-input = sys.stdin.readline
 INF = int(1e9) # 임의로 무한값을 설정한다. (10억)
 
 # n : 노드의 수 / m : 간선의 수
@@ -43,7 +41,7 @@ def dijkstra(start):
     
     # 나머지 노드 루프
     for i in range(n-1):
-        v = find_closest_node() # 
+        v = find_closest_node()
         visited[v] = True
 
         for j in graph[v]:
