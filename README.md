@@ -69,7 +69,7 @@
 |8주차(04.20~04.26)|백준22단계(자율), [백준 23단계 1-3번](https://www.acmicpc.net/step/17)|04.26(월)|X중간고사X|X|
 |9주차(04.27~05.03)|[백준 23단계 4-7번](https://www.acmicpc.net/step/17)|04.29(목)|[백준 24단계 1-5번](https://www.acmicpc.net/step/24)|05.03(월)|
 |10주차(05.04~05.10)|[백준 24단계 6-11번](https://www.acmicpc.net/step/24)|05.07(금)|[백준 25단계 1-3번](https://www.acmicpc.net/step/25),다익스트라 이론|05.10(월)|
-|11주차(05.11~05.17)|[백준 25단계 4-7번](https://www.acmicpc.net/step/25),이론|05.13(월)|-|-|
+|11주차(05.11~05.17)|[백준 25단계 4-7번](https://www.acmicpc.net/step/25),이론|05.14(금)|[백준 26단계 1-5번](https://www.acmicpc.net/step/59)|05.17(월)|
 |12주차(05.18~05.24)|-|-|-|-|
 |13주차(05.25~06.01)|-|-|-|-|
 
@@ -78,9 +78,9 @@
 
 | 참여자 (5) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 00.00% |
-| ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 00.00% |
-| Hyeonseo Jang ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 00.00% |
-| Naeun Song ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 00.00% |
+| younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|| | 00.00% |
+| ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|| | 00.00% |
+| Hyeonseo Jang ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|| | 00.00% |
+| Naeun Song ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|| | 00.00% |
 
 ###### 출석 + 과제 완료 ✅ | 결석 ❌ | 과제 미제출 ✔️
