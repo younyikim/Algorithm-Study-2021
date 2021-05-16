@@ -3,6 +3,7 @@ N = int(input())
 
 s = e = sum = cnt = 0
 
+# 에라토스테네스의 체
 is_prime = [True] * (N+1)
 is_prime[0] = is_prime[1] = False
 
