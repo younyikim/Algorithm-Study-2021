@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="889787e7-844c-428b-9a99-0edaa01d9b6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/week01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/1000.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/1001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/1008.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/10171.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/10172.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/10430.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/10718.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/10869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/10998.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/2557.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step1/2588.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step2/1330.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step2/14681.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step2/2753.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step2/2884.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step2/9498.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/10871.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/10950.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/11021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/11022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/15552.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/2438.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/2439.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/2739.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/2741.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/2742.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step3/8393.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step4/10951.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step4/10952.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/step4/1110.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/step10/10870.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/step10/10872.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/step10/11729.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/step10/2447.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/step11/1018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/step11/1436.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/step11/2231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/step11/2798.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/step11/7568.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/week03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step12/10814.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step12/10989.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step12/11650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step12/11651.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step12/1181.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step12/1427.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step12/2108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step12/2750.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step12/2751.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step13/14888.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step13/14889.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step13/15649.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step13/15650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step13/15651.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step13/15652.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step13/2580.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/step13/9663.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/week04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/1003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/10844.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/11053.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/11054.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/1149.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/12865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/1463.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/1904.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/1912.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/1932.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/2156.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/2565.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/2579.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/9184.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/9251.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/step14/9461.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/.idea/step15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/11047.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/11399.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/13305.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/1541.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week05/step15/1931.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/.idea/week06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step18/10773.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step18/10828.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step18/17298.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step18/1874.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step18/4949.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step18/9012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step19/1021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step19/10866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step19/11866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step19/18258.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step19/1966.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step19/2164.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/step19/5430.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/week07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step20/11401.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step20/1629.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step20/1780.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step20/1992.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step20/2630.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step20/2740.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qylswgw4GEnevv87sPKLaer8wB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.11444">
+    <configuration name="10830" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week07" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step20/10830.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11401" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week07" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step20/11401.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11444" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week07" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step20/11444.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1629" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week07" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step20/1629.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2740" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week07" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step20/2740.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.11444" />
+        <item itemvalue="Python.10830" />
+        <item itemvalue="Python.2740" />
+        <item itemvalue="Python.11401" />
+        <item itemvalue="Python.1629" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="889787e7-844c-428b-9a99-0edaa01d9b6a" name="Default Changelist" comment="" />
+      <created>1618059920991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618059920991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
