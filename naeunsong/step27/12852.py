@@ -1,27 +1,25 @@
+N = int(input())
 
-def func(num, arr, memo, k):
-    arr[k] = num
+result = [[0, []] for _ in range(N + 1)] #[최솟값, 경로 리스트]
+result[1][0] = 0 #최솟값
+result[1][1] = [1] #경로를 담을 리스트
 
-    if num == 1:
-        print('up',k+1)
-        for i in range(k+1):
-            print(arr[i], end=' ')
-        print()
-        return
+for i in range(2, N + 1):
+	
+    #f(x-1) + 1   
+    result[i][0] = result[i-1][0] + 1
+    result[i][1] = result[i-1][1] + [i]
+    
+    #f(x//3) + 1   
+    if i % 3 == 0 and result[i//3][0] + 1 < result[i][0]:
+        result[i][0] = result[i//3][0] + 1
+        result[i][1] = result[i//3][1] + [i]
 
-    if memo[num] == 0:
-        memo[num] = 1
-
-        if num % 3 == 0:
-            func(num // 3, arr, memo, k+1)
-        if num % 2 == 0:
-            func(num // 2, arr, memo, k+1)
-        func(num-1, arr, memo, k+1)
-
-
-n = int(input())
-
-memo = [0 for _ in range(100001)]
-arr = [0 for _ in range(100001)]
-
-func(n, arr, memo, 0)
+	#f(x//2) + 1   
+    if i % 2 == 0 and result[i//2][0] + 1 < result[i][0]:
+        result[i][0] = result[i//2][0] + 1
+        result[i][1] = result[i//2][1] + [i]
+        
+print(result[N][0])
+for i in result[N][1][::-1]: #뒤집은 뒤 출력
+    print(i, end=' ')
