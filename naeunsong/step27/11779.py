@@ -34,7 +34,7 @@ while p[temp] != -1:
     temp = p[temp]
 
 
-    
+
 print(costResult)
 print(len(pathResult))
 for i in pathResult[::-1]:
