@@ -74,8 +74,7 @@
 |14주차(05.25~06.01)|[백준 28단계 3-7번](https://www.acmicpc.net/step/41)|05.27(목)|[백준 30단계 1-3번](https://www.acmicpc.net/step/15)& 최소신장트리 이론|05.31(월)|
 |15주차(06.08~06.10)|[백준 30단계 4-6번](https://www.acmicpc.net/step/15)|06.03(목)|X기말고사X|X|
 |16주차(06.15~06.17)|[백준 31단계 1-4번](https://www.acmicpc.net/step/21)|06.17(목)|[카카오 키패드, 크레인 인형](https://programmers.co.kr/learn/challenges?tab=all_challenges)|06.21(월)|
-|17주차(06.22~06.24)|[백준 삼성 구슬 탈출, 2048](https://www.acmicpc.net/workbook/view/1152) |06.24(목)
-|-|-|
+|17주차(06.22~06.24)|[백준 삼성 구슬 탈출, 2048](https://www.acmicpc.net/workbook/view/1152) |06.24(목)|[카카오 신규아이디 추천,실패율,비밀지도](https://programmers.co.kr/learn/challenges)|06.28(월)|
 |18주차(06.29~07.02)|-|-|-|-|
 
 - - -
@@ -83,9 +82,9 @@
 
 | 참여자 (5) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 15주차 | 16주차 | 17주차 |참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |--- | --- | --- | --- |
-| younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| :white_check_mark:| :white_check_mark:| | | |00.00% |
-| ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: | :white_check_mark:| | | |00.00% |
-| Hyeonseo Jang ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: |  :white_check_mark: || | |00.00% |
-| Naeun Song ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: |  :white_check_mark:| | | |00.00% |
+| younyikim |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| :white_check_mark:| :white_check_mark:| :white_check_mark:|:white_check_mark: | :white_check_mark:|00.00% |
+| ataraxiady |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: | :white_check_mark:| :white_check_mark:|:white_check_mark: |:white_check_mark: |00.00% |
+| Hyeonseo Jang ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: |  :white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark:|00.00% |
+| Naeun Song ||||||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: |  :white_check_mark:|:white_check_mark: |:white_check_mark: |:white_check_mark: |00.00% |
 
 ###### 출석 + 과제 완료 ✅ | 결석 ❌ | 과제 미제출 ✔️
