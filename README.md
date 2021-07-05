@@ -77,7 +77,7 @@
 |16주차(06.15~06.17)|[백준 31단계 1-4번](https://www.acmicpc.net/step/21)|06.17(목)|[카카오 키패드, 크레인 인형](https://programmers.co.kr/learn/challenges?tab=all_challenges)|06.21(월)|
 |17주차(06.22~06.24)|[백준 삼성 구슬 탈출, 2048](https://www.acmicpc.net/workbook/view/1152) |06.24(목)|[카카오 신규아이디 추천,실패율,비밀지도](https://programmers.co.kr/learn/challenges)|06.28(월)|
 |18주차(06.29~07.02)|[백준 삼성 뱀, 시험감독](https://www.acmicpc.net/workbook/view/1152)|07.01(목)|[카카오 다트게임,오픈채팅방,문자열압축](https://programmers.co.kr/learn/challenges)|07.05(월)|
-|20주차(07.05~07.11)|||||
+|20주차(07.05~07.11)|[백준 삼성 주사위, 테트로미노](https://www.acmicpc.net/workbook/view/1152)|07.08(목)|||
 |21주차(07.12~07.18)|||||
 |22주차(07.19~07.25)|||||
 
