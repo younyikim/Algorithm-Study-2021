@@ -79,7 +79,8 @@
 |18주차(06.29~07.02)|[백준 삼성 뱀, 시험감독](https://www.acmicpc.net/workbook/view/1152)|07.01(목)|[카카오 다트게임,오픈채팅방,문자열압축](https://programmers.co.kr/learn/challenges)|07.05(월)|
 |20주차(07.05~07.11)|[백준 삼성 주사위, 테트로미노](https://www.acmicpc.net/workbook/view/1152)|07.08(목)|[카카오 수식최대화, 뉴스 클러스터링(1)](https://programmers.co.kr/learn/challenges)|07.12(월)|
 |21주차(07.12~07.18)|[백준 삼성 퇴사, 연구소](https://www.acmicpc.net/workbook/view/1152)|07.15(목)|[카카오 괄호변환, 튜플](https://programmers.co.kr/learn/challenge)|07.19(월)|
-|22주차(07.19~07.25)|||||
+|22주차(07.19~07.25)|[백준 로봇 청소기, 경사로](https://www.acmicpc.net/workbook/view/1152)|07.22(목)|[카카오](https://programmers.co.kr/learn/challenge)|07.26(월)|
+|23주차(07.26~08.01)|[백준 톱니 바퀴, 감시](https://www.acmicpc.net/workbook/view/1152)|07.29(목)|[카카오 캐시, 방금그곡](https://programmers.co.kr/learn/challenge)|08.02(월)|
 
 
 - - -
