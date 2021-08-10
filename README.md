@@ -80,8 +80,8 @@
 |20주차(07.05~07.11)|[백준 삼성 주사위, 테트로미노](https://www.acmicpc.net/workbook/view/1152)|07.08(목)|[카카오 수식최대화, 뉴스 클러스터링(1)](https://programmers.co.kr/learn/challenges)|07.12(월)|
 |21주차(07.12~07.18)|[백준 삼성 퇴사, 연구소](https://www.acmicpc.net/workbook/view/1152)|07.15(목)|[카카오 괄호변환, 튜플](https://programmers.co.kr/learn/challenge)|07.19(월)|
 |22주차(07.19~07.25)|[백준 로봇 청소기, 경사로](https://www.acmicpc.net/workbook/view/1152)|07.22(목)|[카카오](https://programmers.co.kr/learn/challenge)|07.26(월)|
-|23주차(07.26~08.01)|[백준 사다리 조작,드래곤 커브](https://www.acmicpc.net/workbook/view/1152)|08.05(목)|||
-|24주차(08.02~08.08)|||||
+|23주차(07.26~08.01)|[백준 사다리 조작,드래곤 커브](https://www.acmicpc.net/workbook/view/1152)|08.05(목)|[카카오 압축,파일명 정렬](https://programmers.co.kr/learn/challenge)|08.09(월)|
+|24주차(08.02~08.08)|[백준 치킨 배달,큐빙](https://www.acmicpc.net/workbook/view/1152)|08.12(목)|||
 |25주차(08.09~08.15)|||||
 |26주차(08.16~08.22)|||||
 
